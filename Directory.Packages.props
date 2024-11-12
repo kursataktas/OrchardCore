@@ -84,7 +84,7 @@
     <PackageVersion Include="YesSql.Filters.Abstractions" Version="5.1.1" />
     <PackageVersion Include="YesSql.Filters.Query" Version="5.1.1" />
     <PackageVersion Include="ZString" Version="2.6.0" />
-    
+    <PackageVersion Include="Microsoft.Net.Compilers.Toolset" Version="4.13.0-1.24555.2" />
     <!-- dotnet/extensions -->
     <PackageVersion Include="Microsoft.Extensions.Http.Resilience" Version="8.10.0" />
   </ItemGroup>
